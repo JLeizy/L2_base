@@ -36,4 +36,4 @@ function bingo(ticket, win)
         }
 }
 
-console.log(bingo([['ABC', 65], ['HGR', 74], ['BYHT', 74]], 1), 'Loser!'); 
+console.log(bingo([['ABC', 65], ['HGR', 74], ['BYHT', 74]], 1)); 
